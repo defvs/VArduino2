@@ -1,0 +1,15 @@
+# VArduino 2.70 :
+First online release. Everything works great but the menu with flight recording & calibration isn't done.
+
+## Bugs & issues :
+* Menu is not yet implemented
+* Calibration isn't there yet too
+
+## Next release goals :
+* Finish things stated above
+* Improve the averaqing filter
+* Finding the best settings for the filter
+* Creating an install tutorial
+* Adding PCB circuit diagrams & files
+
+Thanks for supporting the project ! - defvs
